@@ -1,0 +1,31 @@
+
+T2B78 000:299 SEGGER J-Link V4.98c Log File (0001ms, 0268ms total)
+T2B78 000:299 DLL Compiled: Apr 23 2015 20:21:50 (0001ms, 0268ms total)
+T2B78 000:299 Logging started @ 2016-01-18 17:02 (0001ms, 0268ms total)
+T2B78 000:300 JLINK_SetWarnOutHandler(...) (0000ms, 0268ms total)
+T2B78 000:300 JLINK_OpenEx(...)
+Firmware: J-Link ARM V8 compiled Nov 28 2014 13:44:46
+Hardware: V8.00
+Feature(s): RDI,FlashDL,FlashBP,JFlash  returns O.K. (0263ms, 0531ms total)
+T2B78 000:563 JLINK_SetErrorOutHandler(...) (0000ms, 0531ms total)
+T2B78 000:563 JLINK_ExecCommand("ProjectFile = "E:\svn\L53_release\Freescale\project\kl17\JLinkSettings.ini"", ...)  returns 0x00 (0000ms, 0531ms total)
+T2B78 000:565 JLINK_ExecCommand("Device = MKL17Z256xxx4", ...)Device "MKL17Z256XXX4" selected.  returns 0x00 (0002ms, 0533ms total)
+T2B78 000:567 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x01 (0000ms, 0533ms total)
+T2B78 000:567 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0533ms total)
+T2B78 000:567 JLINK_GetDLLVersion()  returns 49803 (0000ms, 0533ms total)
+T2B78 000:567 JLINK_GetFirmwareString(...) (0000ms, 0533ms total)
+T2B78 000:571 JLINK_GetDLLVersion()  returns 49803 (0000ms, 0533ms total)
+T2B78 000:571 JLINK_GetCompileDateTime() (0000ms, 0533ms total)
+T2B78 000:573 JLINK_GetFirmwareString(...) (0000ms, 0533ms total)
+T2B78 000:575 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0533ms total)
+T2B78 000:579 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0001ms, 0534ms total)
+T2B78 000:580 JLINK_SetSpeed(2000) (0001ms, 0535ms total)
+T2B78 000:581 JLINK_GetId() >0x108 TIF> >0x108 TIF> >0x108 TIF> >0x108 TIF> >0x108 TIF> >0x108 TIF> >0x108 TIF> >0x108 TIF> >0x108 TIF> >0x108 TIF>
+                JLINK_EMU_HasCapEx(0x0000002C)  returns 0x01 (0000ms, 0000ms total)
+                JLINK_EMU_HasCapEx(0x0000002C)  returns 0x01 (0000ms, 0000ms total)
+                returns 0x00000000 (6721ms, 7256ms total)
+T30FC 018:029 
+  ***** Error: Connection to emulator lost! (26906ms, 34162ms total)
+T2B78 680:977 JLINK_Close() (0000ms, 7256ms total)
+T2B78 680:977  (0000ms, 7256ms total)
+T2B78 680:977 Closed (0000ms, 7256ms total)

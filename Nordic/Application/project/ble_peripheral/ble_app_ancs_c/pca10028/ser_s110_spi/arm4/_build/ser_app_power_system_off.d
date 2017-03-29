@@ -1,0 +1,10 @@
+.\_build\ser_app_power_system_off.o: ..\..\..\..\..\..\components\serialization\application\hal\ser_app_power_system_off.c
+.\_build\ser_app_power_system_off.o: ..\..\..\..\..\..\components\device\nrf51.h
+.\_build\ser_app_power_system_off.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm0.h
+.\_build\ser_app_power_system_off.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\_build\ser_app_power_system_off.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h
+.\_build\ser_app_power_system_off.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h
+.\_build\ser_app_power_system_off.o: ..\..\..\..\..\..\components\toolchain\system_nrf51.h
+.\_build\ser_app_power_system_off.o: ..\..\..\..\..\..\components\device\nrf51_bitfields.h
+.\_build\ser_app_power_system_off.o: ..\..\..\..\..\..\components\serialization\application\hal\ser_app_power_system_off.h
+.\_build\ser_app_power_system_off.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h

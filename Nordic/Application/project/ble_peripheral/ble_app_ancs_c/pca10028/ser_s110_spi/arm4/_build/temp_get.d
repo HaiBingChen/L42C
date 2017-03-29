@@ -1,0 +1,17 @@
+.\_build\temp_get.o: ..\..\..\..\..\..\components\serialization\application\codecs\s110\serializers\temp_get.c
+.\_build\temp_get.o: ..\..\..\..\..\..\components\softdevice\s110\headers\nrf_soc.h
+.\_build\temp_get.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\_build\temp_get.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdbool.h
+.\_build\temp_get.o: ..\..\..\..\..\..\components\softdevice\s110\headers\nrf_svc.h
+.\_build\temp_get.o: ..\..\..\..\..\..\components\device\nrf51.h
+.\_build\temp_get.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm0.h
+.\_build\temp_get.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h
+.\_build\temp_get.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h
+.\_build\temp_get.o: ..\..\..\..\..\..\components\toolchain\system_nrf51.h
+.\_build\temp_get.o: ..\..\..\..\..\..\components\device\nrf51_bitfields.h
+.\_build\temp_get.o: ..\..\..\..\..\..\components\softdevice\s110\headers\nrf_error_soc.h
+.\_build\temp_get.o: ..\..\..\..\..\..\components\softdevice\s110\headers\nrf_error.h
+.\_build\temp_get.o: ..\..\..\..\..\..\components\serialization\common\ble_serialization.h
+.\_build\temp_get.o: ..\..\..\..\..\..\components\libraries\util\nordic_common.h
+.\_build\temp_get.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\_build\temp_get.o: ..\..\..\..\..\..\components\serialization\common\cond_field_serialization.h

@@ -1,0 +1,13 @@
+.\_build\app_mailbox.o: ..\..\..\..\..\..\components\serialization\application\transport\app_mailbox.c
+.\_build\app_mailbox.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stddef.h
+.\_build\app_mailbox.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+.\_build\app_mailbox.o: ..\..\..\..\..\..\components\serialization\application\transport\app_mailbox.h
+.\_build\app_mailbox.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\_build\app_mailbox.o: ..\..\..\..\..\..\components\softdevice\s110\headers\nrf_error.h
+.\_build\app_mailbox.o: ..\..\..\..\..\..\components\libraries\util\app_util_platform.h
+.\_build\app_mailbox.o: ..\..\..\..\..\..\components\device\compiler_abstraction.h
+.\_build\app_mailbox.o: ..\..\..\..\..\..\components\device\nrf51.h
+.\_build\app_mailbox.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm0.h
+.\_build\app_mailbox.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h
+.\_build\app_mailbox.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h
+.\_build\app_mailbox.o: ..\..\..\..\..\..\components\toolchain\system_nrf51.h
